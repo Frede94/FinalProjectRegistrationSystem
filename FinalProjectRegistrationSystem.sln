@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectRegistrationClassLib", "ClassLibrary1\ProjectRegistrationClassLib.csproj", "{D44B3B37-BFDE-4688-ABA8-B5668B50478C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{4D4FFCAC-6F55-4565-B2DC-3870418C6028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44B3B37-BFDE-4688-ABA8-B5668B50478C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44B3B37-BFDE-4688-ABA8-B5668B50478C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44B3B37-BFDE-4688-ABA8-B5668B50478C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44B3B37-BFDE-4688-ABA8-B5668B50478C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4FFCAC-6F55-4565-B2DC-3870418C6028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4FFCAC-6F55-4565-B2DC-3870418C6028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4FFCAC-6F55-4565-B2DC-3870418C6028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4FFCAC-6F55-4565-B2DC-3870418C6028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A0953E-0F91-4BD0-9004-39309563DCD2}
+	EndGlobalSection
+EndGlobal
